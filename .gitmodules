@@ -1,0 +1,9 @@
+[submodule "kdzsh"]
+	path = kdzsh
+	url = git@github.com:ccdd9451/kdzsh.git
+[submodule "kdvim"]
+	path = kdvim
+	url = git@github.com:ccdd9451/kdvim.git
+[submodule "kdmisc"]
+	path = kdmisc
+	url = git@github.com:ccdd9451/kdmisc.git
